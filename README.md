@@ -13,7 +13,10 @@
 
 ## Tracks involved in this project：
 - ETHShanghai Main Track - Layer 2
+- ETHShanghai Main Track - Applications
+- ProofService: add support for more platforms
 - 
+
 
 ## Language
 [English](https://github.com/yanboishere/Chain.Food/blob/master/README.md) | [简体中文](https://github.com/yanboishere/Chain.Food/blob/master/README_cn.md)
