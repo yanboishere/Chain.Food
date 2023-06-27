@@ -132,7 +132,7 @@ Chain.Food is willing to collaborate with Layer2 service providers to airdrop pa
 
 ## Social Responsibility - Donations
 
-Chain.Food will donate the tax revenue and some of its profits earned from users obtaining FoodCoin and minting NFTs to nonprofit organizations dedicated to donating food to underdeveloped regions and disaster-stricken areas in order to help them carry out such activities.
+Chain.Food will donate the tax revenue and some of its profits earned from users obtaining [FoodCoin](https://github.com/yanboishere/Chain.Food/blob/master/FoodCoin.md) and minting NFTs to nonprofit organizations dedicated to donating food to underdeveloped regions and disaster-stricken areas in order to help them carry out such activities.
 
 The ultimate goal of the project is to save at least one ton of food waste and complete 500 food exchange activities within one year of the platform's launch, while continuing to support other nonprofit organizations. The aim is to make this project sustainable and help feed those who are in need so that they will not experience hunger due to environmental factors. 
 
