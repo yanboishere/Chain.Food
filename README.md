@@ -10,7 +10,7 @@
 <img width="247" alt="eth shanghai" src="https://github.com/yanboishere/Block.Food/assets/76860915/5d83038a-a4e9-403d-9fa7-0aab8f9fe13d">
 
 ## Language
-[English]() | [简体中文]()
+[English](https://github.com/yanboishere/Chain.Food/blob/master/README.md) | [简体中文]()
 
 ## Introduction
 
