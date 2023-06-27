@@ -180,3 +180,8 @@ Finally, all users are requested to carefully read and understand this disclaime
 [![Twitter](https://img.shields.io/badge/@Yanbo-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/YanboOfficial)
 [![Telegram](https://img.shields.io/badge/@YanboWang-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/yanbowang)
 
+# Notice
+## Difficulty in Presenting Project Demo at ETH Shanghai Event.
+During the ETH Shanghai event, due to the relatively short time interval, it is difficult for me to make a demo of the project even during this period, so the project may not be able to make a complete demo during the event. 
+
+I am so sorry about that, but I believe that **with your support, our project will successfully help many people who are hungry in the future.**
