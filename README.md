@@ -39,8 +39,6 @@
 ---
 
 <br>
-<br>
-<br>
 
 
 
@@ -49,6 +47,10 @@
 [English](https://github.com/yanboishere/Chain.Food/blob/master/README.md) | [简体中文](https://github.com/yanboishere/Chain.Food/blob/master/README_cn.md)
 
 ---
+
+<br>
+<br>
+<br>
 
 ## Introduction
 
