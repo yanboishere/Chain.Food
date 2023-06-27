@@ -44,6 +44,11 @@ These experiences highlight the issue of food waste in urban areas, and the auth
 
 Users who receive or donate food for the first time will receive an NFT reward. Additionally, users who continue to donate or publish "empty plate" posts may be eligible for additional NFT rewards. The NFT serves as proof that the user has used the application to save food.
 
+#### First donate & receive
+
+![Chain Food 横幅](https://github.com/yanboishere/Chain.Food/assets/76860915/1bde03cd-c092-47a4-88d7-3bf8dbee751c)
+
+
 ### Partnerships
 
 Chain.Food is willing to collaborate with Layer2 service providers to airdrop partnership funds to users in the form of blockchain assets.
