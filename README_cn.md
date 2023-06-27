@@ -1,7 +1,7 @@
 # Chain Food
 ## 🪙-🔗-🍜
 
-# 节约食物 区块链先行
+# 🍚 节约食物 区块链先行
 ![Chain Food](https://github.com/yanboishere/Block.Food/assets/76860915/edead79d-5f81-4e0c-a2b0-a3d6cf7d64b5)
 
 <br>
