@@ -87,6 +87,18 @@ suggests:
 
 > Reducing food waste plays an important role in reducing greenhouse gas emissions, as the energy and resources required to produce, transport and process food result in significant carbon emissions.
 
+### World Area Data
+
+| Region | Food Service Waste (10,000 tonnes/year) | Household Waste (10,000 tonnes/year) | Retail Waste (10,000 tonnes/year) | Production and Supply Chain Waste (10,000 tonnes/year) | Total waste (10,000 tonnes/year) |
+| ------ | ------------------------------------- | ---------------------------------- | --------------------------------- | -------------------------------------------------------- | -------------------------------- |
+| Asia   | 10991                                 | 17873                              | 3893                              | 59206                                                    | 90063                            |
+| Europe | 14211                                 | 5427                               | 15248                             | 14884                                                    | 88771                            |
+| Latin America and the Caribbean | 2698                          | 7649                               | 1906                              | 4064                                                     | 16307                            |
+| North America | 4256                          | 6232                               | 2198                              | 4185                                                     | 16853                            |
+| Oceania | 597                                | 1641                               | 285                               | 375                                                      | 2898                             |
+| Africa | 2602                               | 7660                               | 1117                              | 14922                                                    | 26301                            |
+
+
 The report reveals the magnitude of the food waste problem and calls for global action to reduce it. The numbers are astonishing
 
 ## Features
