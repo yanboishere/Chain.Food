@@ -121,6 +121,21 @@ We aim to achieve the following objectives within one year of the project's full
 
 Let's work together to make sure that more people have access to food and are not hungry due to environmental factors.
 
+## Rules of use
+
+Thank you for choosing to use the Chain.Food platform. In order to protect the rights and interests of you and other users and a good user experience, please abide by the following rules of use:
+
+- 1. When registering, in order to ensure food safety, please provide real personal information, and do not impersonate others for registration.
+- 2. Do not publish false information, including but not limited to false activities, false food, etc. Once discovered, you will be banned from using the platform.
+- 3. Do not maliciously attack or harass other users. Any violations will be punished or even banned.
+- 4. When publishing free food, please ensure its quality and safety, and do not post expired, spoiled or safety hazard food.
+- 5. After receiving the free food, please confirm whether it meets your dietary needs. If you have any questions, please contact the publisher in time. At the same time, we encourage you to take "empty plate photos" after enjoying the food and upload and share them to get more FoodCoin rewards.
+- 6. The FoodCoin you get on this platform can be exchanged at cooperative merchants or traded on exchanges. Please use the currency reasonably and pay attention to the risks.
+- 7. We encourage users to share your experience on Chain.Food on social media, but please ensure that the shared content does not involve sensitive or illegal information such as pornography, violence, politics, etc.
+- 8. Do not use this platform for illegal activities, including but not limited to money laundering, smuggling, terrorism, etc. Once discovered, you will immediately report to the police and cooperate with relevant agencies to investigate.
+
+We hope that when you use the Chain.Food platform, you can abide by the above rules, respect others and maintain the order of the platform, and work together to reduce food waste, support public welfare undertakings, and let more people enjoy healthy food.
+
 ## Disclaimer
 
 The Chain.Food platform only provides an information display and exchange platform, and is not responsible for the authenticity, legality, accuracy and completeness of the information released by users.
