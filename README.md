@@ -49,7 +49,7 @@ Users who receive or donate food for the first time will receive an NFT reward. 
 ![Chain Food 横幅](https://github.com/yanboishere/Chain.Food/assets/76860915/1bde03cd-c092-47a4-88d7-3bf8dbee751c)
 
 
-### Partnerships
+## Partnerships
 
 Chain.Food is willing to collaborate with Layer2 service providers to airdrop partnership funds to users in the form of blockchain assets.
 
