@@ -1,6 +1,8 @@
 # Chain.Food
 
 [![Twitter](https://img.shields.io/badge/@Yanbo-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/YanboOfficial)
+[![Telegram](https://img.shields.io/badge/@YanboWang-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/yanbowang)
+
 
 
 ![Chain Food](https://github.com/yanboishere/Block.Food/assets/76860915/edead79d-5f81-4e0c-a2b0-a3d6cf7d64b5)
