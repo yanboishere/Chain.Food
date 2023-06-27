@@ -159,9 +159,9 @@ Finally, all users are requested to carefully read and understand this disclaime
 
 # Support us
 
-## 🪙Bitcoin: bc1q32mjead3kg0lx25yy9mcy9m8845zatvhcfvj92
+## 🪙Bitcoin ``bc1q32mjead3kg0lx25yy9mcy9m8845zatvhcfvj92``
 
-## 🪙Ethereum: 0xBBc1fE874422F61fB135e72C3229Fffc3Cb266Fb
+## 🪙Ethereum ``0xBBc1fE874422F61fB135e72C3229Fffc3Cb266Fb``
 
 ## Contect us
 
