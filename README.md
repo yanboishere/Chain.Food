@@ -30,7 +30,7 @@ These experiences highlight the issue of food waste in urban areas, and the auth
 
 ## Data
 
-> Data from The Food Waste Index Report by the Food and Agriculture Organization of the United Nations (FAO) suggests:
+Data from 《The Food Waste Index Report》 by the **Food and Agriculture Organization of the United Nations (FAO)** suggests:
 
 > About 93.1 billion kilograms of food is wasted globally every year, equivalent to 17% of all food produced.
 > Vegetables, roots, fruits and grains are the most commonly wasted food types in households.
