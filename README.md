@@ -28,7 +28,16 @@ Later that day, while visiting a convenience store, the author noticed a large q
 
 These experiences highlight the issue of food waste in urban areas, and the author was inspired to create a decentralized application (Dapp) called Chain.Food to address this problem.
 
+## Data
 
+> Data from The Food Waste Index Report by the Food and Agriculture Organization of the United Nations (FAO) suggests:
+
+> About 93.1 billion kilograms of food is wasted globally every year, equivalent to 17% of all food produced.
+> Vegetables, roots, fruits and grains are the most commonly wasted food types in households.
+> Food retailers and foodservice are among the largest sources of food waste, with supermarkets, restaurants and hotels being particularly wasteful links in their supply chains.
+> Reducing food waste plays an important role in reducing greenhouse gas emissions, as the energy and resources required to produce, transport and process food result in significant carbon emissions.
+
+The report reveals the magnitude of the food waste problem and calls for global action to reduce it. The numbers are astonishing
 
 ## Features
 
