@@ -32,6 +32,7 @@
 
 我问及服务员 他们说按照公司规定 这些食物将会在明早被全部废弃
 
+<img width="689" alt="截屏2023-06-27 下午10 07 14" src="https://github.com/yanboishere/Chain.Food/assets/76860915/aa5c7bc5-f187-4093-8735-99be0f8d3756">
 
 （Picture copyright from ©️便利蜂）
 
