@@ -15,7 +15,12 @@
 - ETHShanghai Main Track - Layer 2
 - ETHShanghai Main Track - Applications
 - ProofService: add support for more platforms
-- 
+- Integrate Batched Transactions into a dApp
+- Best Use Of Kwil
+- Build a data loader / oracle network with Kwil
+
+
+
 
 
 ## Language
