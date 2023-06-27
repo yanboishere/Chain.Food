@@ -123,7 +123,7 @@ We aim to achieve the following objectives within one year of the project's full
 
 Let's work together to make sure that more people have access to food and are not hungry due to environmental factors.
 
-## Disclaimer:
+## Disclaimer
 
 The Chain.Food platform only provides an information display and exchange platform, and is not responsible for the authenticity, legality, accuracy and completeness of the information released by users.
 
