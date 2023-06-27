@@ -50,9 +50,9 @@
 
 <br>
 <br>
-<br>
 
-## Introduction
+
+# Introduction
 
 The inspiration for this project came from a chance experience the author had. 
 
