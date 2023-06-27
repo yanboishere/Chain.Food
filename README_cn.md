@@ -166,6 +166,12 @@ Chain.Food 平台仅提供信息展示及交流平台，不对用户发布的信
 [![Twitter](https://img.shields.io/badge/@Yanbo-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/YanboOfficial)
 [![Telegram](https://img.shields.io/badge/@YanboWang-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/yanbowang)
 
+# 赞助我们
+
+## 🪙 以太坊 ``0xBBc1fE874422F61fB135e72C3229Fffc3Cb266Fb``
+
+非常感谢我们的赞助商对Chain.Food平台的支持，您的慷慨赞助使得我们能够让更多人获得免费食品，同时也减少了食物浪费。我们的平台不仅面向餐厅和活动组织者，还为个人提供了发布和分享免费食品信息的平台，这使得更多人可以受益。通过链接钱包到平台上，用户可以方便地查看附近的免费食品信息，并且在领取或捐赠食物时，还能获得FoodCoin代币的奖励。此外，我们的用户还可以通过分享用完食物后的空盘照片来获得额外的奖励，这种行为不仅促进了环保理念的传播，还可以帮助更多人享受免费食品。最后，链上的代币可以在合作伙伴商户处兑换奖励，或者在交易所进行交易，这为用户带来了更多的便利和选择。再次感谢赞助商对我们项目的支持，我们相信在您的帮助下，我们会帮助更多人获得食物资源，并且为社会和环境做出积极的贡献。
+
 ## 通知
 在ETH Shanghai活动期间 因时间间隔相对较短 而该项目即使想在这段时间做出一个Demo演示 对于我本人来说也是比较困难的 
 
