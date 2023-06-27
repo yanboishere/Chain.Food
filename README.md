@@ -1,4 +1,4 @@
-# Block.Food
+# Chain.Food
 
 
 ![Chain Food](https://github.com/yanboishere/Block.Food/assets/76860915/edead79d-5f81-4e0c-a2b0-a3d6cf7d64b5)
@@ -37,13 +37,13 @@
 
 来解决食物浪费的问题
 
-这就是我制作 Block.Food 灵感的由来
+这就是我制作 Chain.Food 灵感的由来
 
 ## 功能
 
 ### 主要
 
-- Block.Food 会开放给所有的餐厅、活动主办者、群众注册
+- Chain.Food 会开放给所有的餐厅、活动主办者、群众注册
 
 - 所有用户使用钱包链接平台后 可以查看到附近的免费食物信息 以及 发布自己现在所可以免费赠送的食物的信息和地点
 
