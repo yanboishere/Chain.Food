@@ -85,6 +85,11 @@ The report reveals the magnitude of the food waste problem and calls for global 
 
 The numbers are astonishing.
 
+And the most important,there's still many people were hunger.
+
+## 828 million people worldwide face hunger - 2022 State of Food Security and Nutrition in the World Report
+
+
 This food waste could have been avoided...but **why not put it back for reuse?**
 
 So,This is the main problem that our project aims to solve:
