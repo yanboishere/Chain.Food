@@ -4,9 +4,10 @@
 
 ![Chain Food](https://github.com/yanboishere/Block.Food/assets/76860915/edead79d-5f81-4e0c-a2b0-a3d6cf7d64b5)
 
-<br>
-<br>
-<br>
+ <br>
+
+## Language
+[English](https://github.com/yanboishere/Chain.Food/blob/master/README.md) | [简体中文](https://github.com/yanboishere/Chain.Food/blob/master/README_cn.md)
 
 ---
 
@@ -40,15 +41,7 @@
 
 ---
 
-<br>
 
-
-
-
-## Language
-[English](https://github.com/yanboishere/Chain.Food/blob/master/README.md) | [简体中文](https://github.com/yanboishere/Chain.Food/blob/master/README_cn.md)
-
----
 
 <br>
 <br>
