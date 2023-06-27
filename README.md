@@ -1,4 +1,9 @@
 # Block.Food
+## ETHshanghai 2023 活动作品
+<img width="247" alt="eth shanghai" src="https://github.com/yanboishere/Block.Food/assets/76860915/5d83038a-a4e9-403d-9fa7-0aab8f9fe13d">
+
+
+
 
 ## 前言
 本项目的灵感起源于作者的一次偶然经历
@@ -10,6 +15,8 @@
 导致之前主办方统计的早餐供餐数量远大于现场吃早餐的人 造成了一定的浪费
 
 而这部分浪费 主办方人员想去找机会送出 但是却苦于没有渠道 最后只能放弃
+
+---
 
 当天深夜0点之时 作者去到便利店去买一些饭团去补充能量 
 
