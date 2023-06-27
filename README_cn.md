@@ -166,6 +166,11 @@ Chain.Food 平台仅提供信息展示及交流平台，不对用户发布的信
 [![Twitter](https://img.shields.io/badge/@Yanbo-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/YanboOfficial)
 [![Telegram](https://img.shields.io/badge/@YanboWang-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/yanbowang)
 
+## 通知
+在ETH Shanghai活动期间 因时间间隔相对较短 而该项目即使想在这段时间做出一个Demo演示 对于我本人来说也是比较困难的 
 
+所以该项目可能在活动期间并不能做出完整的Demo 敬请谅解 
+
+但是我相信 有你的支持 **未来我们的项目 会成功帮助不少正在处于饥饿状态的人们**
 
 
