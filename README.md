@@ -1,7 +1,5 @@
 # Chain Food      
-
-
- <center>🪙-🔗-🍜</center>
+## 🪙-🔗-🍜
 
 
 # 🍚 Reduce [Food Waste](https://github.com/yanboishere/Chain.Food/blob/master/README.md#world-food-wasted-data) ,Blockchain deal it First.
