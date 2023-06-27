@@ -99,7 +99,11 @@ suggests:
 | Africa | 2602                               | 7660                               | 1117                              | 14922                                                    | 26301                            |
 
 
-The report reveals the magnitude of the food waste problem and calls for global action to reduce it. The numbers are astonishing
+The report reveals the magnitude of the food waste problem and calls for global action to reduce it. 
+
+The numbers are astonishing.
+
+This food waste could have been avoided...but **why not put it back for reuse?**
 
 ## Features
 
