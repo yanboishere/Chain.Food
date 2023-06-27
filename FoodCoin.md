@@ -1,4 +1,4 @@
-# FoodCoin WhitePaper
+# 🍚 FoodCoin WhitePaper
 Beta Version 0.1.12
 
 ---
