@@ -91,7 +91,7 @@ And the most important,there's still many people were hunger.
 ### From 2022 State of Food Security and Nutrition in the World Report
 
 
-This food waste could have been avoided...but **why not put it back for reuse?**
+These food waste could have been avoided...but **why not put it back for reuse?**
 
 So,This is the main problem that our project aims to solve:
 
