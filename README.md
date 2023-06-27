@@ -123,7 +123,7 @@ The ultimate goal of the project is to save **at least 50 tons of food waste and
 We aim to achieve the following objectives within one year of the project's full launch:
 
 - Save at least one ton of food waste
-- Complete 500 food exchange activities on the platform
+- Complete 10‘000 food exchange activities on the platform
 - Continue to support other nonprofit organizations' related activities
 
 Let's work together to make sure that more people have access to food and are not hungry due to environmental factors.
