@@ -105,6 +105,8 @@ The numbers are astonishing.
 
 This food waste could have been avoided...but **why not put it back for reuse?**
 
+So,This is the main problem that our project aims to solve:
+
 ## Features
 
 ### Main Features
