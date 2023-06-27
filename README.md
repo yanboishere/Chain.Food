@@ -28,7 +28,7 @@ Later that day, while visiting a convenience store, the author noticed a large q
 
 These experiences highlight the issue of food waste in urban areas, and the author was inspired to create a decentralized application (Dapp) called Chain.Food to address this problem.
 
-## Data
+## Food Wasted Data
 
 Data from 《The Food Waste Index Report》 
 
