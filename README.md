@@ -66,7 +66,7 @@ suggests:
 
 > Reducing food waste plays an important role in reducing greenhouse gas emissions, as the energy and resources required to produce, transport and process food result in significant carbon emissions.
 
-### World Area Data
+### World Food Wasted Data
 
 | Region | Food Service Waste (10,000 tonnes/year) | Household Waste (10,000 tonnes/year) | Retail Waste (10,000 tonnes/year) | Production and Supply Chain Waste (10,000 tonnes/year) | Total waste (10,000 tonnes/year) |
 | ------ | ------------------------------------- | ---------------------------------- | --------------------------------- | -------------------------------------------------------- | -------------------------------- |
