@@ -63,6 +63,8 @@ Later that day, while visiting a convenience store, the author noticed a large q
 
 <img width="689" alt="截屏2023-06-27 下午10 07 14" src="https://github.com/yanboishere/Chain.Food/assets/76860915/aa5c7bc5-f187-4093-8735-99be0f8d3756">
 
+ <br>
+
 （Picture copyright from ©️便利蜂）
 
 ---
