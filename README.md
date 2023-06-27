@@ -85,6 +85,20 @@ We aim to achieve the following objectives within one year of the project's full
 
 Let's work together to make sure that more people have access to food and are not hungry due to environmental factors.
 
+## Disclaimer:
+
+The Chain.Food platform only provides an information display and exchange platform, and is not responsible for the authenticity, legality, accuracy and completeness of the information released by users.
+
+When using this platform, all users must abide by relevant local food safety regulations and bear any responsibility arising from their actions.
+
+There is a risk of volatility in token transactions on the platform, and users should assess the risks themselves and invest cautiously. This platform does not assume any form of economic loss responsibility.
+
+The funds donated by this platform are managed by non-profit organizations, and the act of donation does not mean that this platform endorses or supports the organization.
+
+The platform reserves the right to modify, suspend or terminate the service at any time, and the platform shall not be liable for any compensation if any losses are caused to users.
+
+Finally, all users are requested to carefully read and understand this disclaimer before using this platform, and at the same time abide by the rules of the platform, and work together to create a sustainable food exchange community.
+
 ## Contect us
 
 [![Twitter](https://img.shields.io/badge/@Yanbo-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/YanboOfficial)
