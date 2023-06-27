@@ -8,6 +8,8 @@
 <br>
 <br>
 
+---
+
 # ETH Shanghai 2023 Activities Demo
 <img width="247" alt="eth shanghai" src="https://github.com/yanboishere/Block.Food/assets/76860915/5d83038a-a4e9-403d-9fa7-0aab8f9fe13d">
 
@@ -34,12 +36,16 @@
   - Build a data loader / oracle network with Kwil
 <img width="642" alt="截屏2023-06-27 下午11 53 36" src="https://github.com/yanboishere/Chain.Food/assets/76860915/4aebdce0-80e3-4c91-be8d-181727fea9f6">
 
+---
+
 
 
 
 
 ## Language
 [English](https://github.com/yanboishere/Chain.Food/blob/master/README.md) | [简体中文](https://github.com/yanboishere/Chain.Food/blob/master/README_cn.md)
+
+---
 
 ## Introduction
 
