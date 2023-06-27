@@ -95,7 +95,7 @@ By the Food and Agriculture Organization of the United Nations (FAO)
 
 ---
 
-These food waste could have been avoided and keep less people hunger...but **why not put it back for reuse?**
+These food waste could have been avoided and keep less people hunger...but **why not for reuse after it waste?**
 
 So,This is the main problem that our project aims to solve:
 
