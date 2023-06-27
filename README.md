@@ -157,10 +157,11 @@ The platform reserves the right to modify, suspend or terminate the service at a
 
 Finally, all users are requested to carefully read and understand this disclaimer before using this platform, and at the same time abide by the rules of the platform, and work together to create a sustainable food exchange community.
 
-## Support us
-### 🪙Bitcoin: bc1q32mjead3kg0lx25yy9mcy9m8845zatvhcfvj92
+# Support us
 
-### 🪙Ethereum: 0xBBc1fE874422F61fB135e72C3229Fffc3Cb266Fb
+## 🪙Bitcoin: bc1q32mjead3kg0lx25yy9mcy9m8845zatvhcfvj92
+
+## 🪙Ethereum: 0xBBc1fE874422F61fB135e72C3229Fffc3Cb266Fb
 
 ## Contect us
 
