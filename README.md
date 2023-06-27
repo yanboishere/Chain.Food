@@ -93,6 +93,7 @@ From [2022 State of Food Security and Nutrition in the World Report](https://www
 
 By the Food and Agriculture Organization of the United Nations (FAO)
 
+---
 
 These food waste could have been avoided...but **why not put it back for reuse?**
 
