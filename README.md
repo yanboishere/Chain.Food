@@ -119,7 +119,7 @@ Users who receive or donate food for the first time will receive an NFT reward. 
 
 ## Partnerships
 
-Chain.Food is willing to collaborate with Layer2 service providers to airdrop partnership funds to users in the form of blockchain assets.
+Chain Food is willing to collaborate with Layer2 service providers to airdrop partnership funds to users in the form of blockchain assets.
 
 ## Social Responsibility - Donations
 
