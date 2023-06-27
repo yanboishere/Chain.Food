@@ -158,7 +158,7 @@ Finally, all users are requested to carefully read and understand this disclaime
 
 [![Twitter](https://img.shields.io/badge/@Yanbo-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/YanboOfficial)
 [![Telegram](https://img.shields.io/badge/@YanboWang-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/yanbowang)
-[![Mail](https://img.shields.io/badge/yanbotravelaroundworld@gmail.com-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto://yanbotravelaroundworld@gmail.com)
+[![Mail](https://img.shields.io/badge/yanbotravelaroundworld@gmail.com-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:yanbotravelaroundworld@gmail.com)
 
 
 # Notice
