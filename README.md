@@ -173,7 +173,9 @@ Finally, all users are requested to carefully read and understand this disclaime
 
 ## Chain Data
 <img width="246" alt="截屏2023-06-28 下午9 08 01" src="https://github.com/yanboishere/Chain.Food/assets/76860915/e3713231-bf98-4ea3-934f-f65ccd020811">
-
+ 
+## Zero-trust identity relationship creation/query protocol
+<img width="85" alt="截屏2023-06-28 下午9 16 23" src="https://github.com/yanboishere/Chain.Food/assets/76860915/00357171-7b3c-4d18-bbeb-a97f5f252d8b">
 
 # Support us
 
