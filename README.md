@@ -167,6 +167,10 @@ The platform reserves the right to modify, suspend or terminate the service at a
 
 Finally, all users are requested to carefully read and understand this disclaimer before using this platform, and at the same time abide by the rules of the platform, and work together to create a sustainable food exchange community.
 
+# IDE of This project
+<img width="337" alt="截屏2023-06-28 下午8 54 15" src="https://github.com/yanboishere/Chain.Food/assets/76860915/baf735f3-fa3d-42bc-a2bf-1dedee2875a5">
+
+
 # Support us
 
 ## 🪙Ethereum ``0xBBc1fE874422F61fB135e72C3229Fffc3Cb266Fb``
