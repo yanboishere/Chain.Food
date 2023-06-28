@@ -177,6 +177,9 @@ Finally, all users are requested to carefully read and understand this disclaime
 ## Zero-trust identity relationship creation/query protocol & Zero-Trust Key-Value storage space
 <img width="85" alt="截屏2023-06-28 下午9 16 23" src="https://github.com/yanboishere/Chain.Food/assets/76860915/00357171-7b3c-4d18-bbeb-a97f5f252d8b">
 
+## Batch Precompile
+<img width="230" alt="截屏2023-06-28 下午9 19 56" src="https://github.com/yanboishere/Chain.Food/assets/76860915/2db4cdf8-cb88-48a8-a251-c7957dc54d58">
+
 # Support us
 
 ## 🪙Ethereum ``0xBBc1fE874422F61fB135e72C3229Fffc3Cb266Fb``
