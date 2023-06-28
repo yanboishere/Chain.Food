@@ -173,7 +173,7 @@ Finally, all users are requested to carefully read and understand this disclaime
 
 A big thank you to our sponsors for their support of the Chain Food platform, your generous sponsorship has allowed us to get more people free food while reducing food waste. Our platform is not only for restaurants and event organizers, but also provides a platform for individuals to post and share free food information, which makes it possible for more people to benefit. By linking the wallet to the platform, users can easily check the information of free food nearby, and when receiving or donating food, they can also get rewards of FoodCoin tokens. In addition, our users can also get extra rewards by sharing photos of empty plates after using up food, which not only promotes the spread of environmental protection ideas, but also helps more people enjoy free food. Finally, tokens on the chain can be exchanged for rewards at partner merchants or traded on exchanges, which brings more convenience and choices to users. Thanks again to the sponsors for their support of our project. We believe that with your help, we will help more people get food resources and make positive contributions to society and the environment.
 
-## Contect us
+## Contect
 
 [![Twitter](https://img.shields.io/badge/@Yanbo-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/YanboOfficial)
 [![Telegram](https://img.shields.io/badge/@YanboWang-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/yanbowang)
