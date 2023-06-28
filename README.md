@@ -180,8 +180,3 @@ A big thank you to our sponsors for their support of the Chain Food platform, yo
 [![Mail](https://img.shields.io/badge/yanbotravelaroundworld@gmail.com-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:yanbotravelaroundworld@gmail.com)
 
 
-# Notice
-## Difficulty in Presenting Project Demo at ETH Shanghai Event.
-During the ETH Shanghai event, due to the relatively short time interval, it is difficult for me to make a demo of the project even during this period, so the project may not be able to make a complete demo during the event. 
-
-I am so sorry about that, but I believe that **with your support, our project will successfully help many people who are hungry in the future.**
