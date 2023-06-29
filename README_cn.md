@@ -13,6 +13,8 @@
 # ETHshanghai 2023 活动作品
 <img width="247" alt="eth shanghai" src="https://github.com/yanboishere/Block.Food/assets/76860915/5d83038a-a4e9-403d-9fa7-0aab8f9fe13d">
 
+本项目为黑客松活动期间 初创项目。
+
 ## 赛道
 
 ---
