@@ -3,8 +3,9 @@
 </h1>
 
 
-
-## 🔗🍜
+<h2 align="center">
+  🔗🍜
+</h2>
 
 # 🍚 Reduce [Food Waste](https://github.com/yanboishere/Chain.Food/blob/master/README.md#world-food-wasted-data), Blockchain deal it First.
 ## dApp that fights food waste by connecting users with free food nearby.
@@ -22,27 +23,23 @@
 
 ---
 
-<p align="center">
-  <h2>ETH Shanghai 2023 Activities Demo</h2>
-</p>
+<h2 align="center">ETH Shanghai 2023 Activities Demo</h2>
 
 <p align="center">
   <img width="247" alt="eth shanghai" src="https://github.com/yanboishere/Block.Food/assets/76860915/5d83038a-a4e9-403d-9fa7-0aab8f9fe13d">
 </p>
 
-<p align="center">
-  <h3>Tracks involved in this project</h3>
-</p>
+<h3 align="center">Tracks involved in this project</h3>
 
 <p align="center">
   <a href="https://github.com/yanboishere/Chain.Food/blob/master/Tracks.md">Tracks</a>
 </p>
 
 
-
 ---
 
 ![325ab3363bc332a5dd989af0a9bc64ea](https://github.com/yanboishere/Chain.Food/assets/76860915/22f0f4c0-dd13-4474-b379-2247536ec6fa)
+
 
 
 
