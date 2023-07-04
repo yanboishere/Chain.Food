@@ -56,9 +56,11 @@ These experiences highlight the issue of food waste in urban areas, and the auth
 
 ## Food Wasted Data
 
-Data from 《The Food Waste Index Report》 
+After that, I was interested in this and searched for related waste data：
 
-by the **Food and Agriculture Organization of the United Nations (FAO)** 
+（Data from 《The Food Waste Index Report》 
+
+by the **Food and Agriculture Organization of the United Nations (FAO)** ）
 
 suggests:
 
