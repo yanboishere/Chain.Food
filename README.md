@@ -1,5 +1,5 @@
 <p align="center">
-  <h1>Chain Food</h1>
+  Chain Food
 </p>
 
 ## 🔗🍜
