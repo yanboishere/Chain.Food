@@ -186,6 +186,10 @@ Finally, all users are requested to carefully read and understand this disclaime
 
 ## Decentralized Protocol
 
+# Translations of 
+
+Thanks to a waiter for assisting me to record and shoot wasted food material.
+
 
 # Support us
 
