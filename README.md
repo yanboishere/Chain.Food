@@ -1,7 +1,10 @@
-# Chain Food
+<p align="center">
+  <h1>Chain Food</h1>
+</p>
+
 ## 🔗🍜
 
-# 🍚 Reduce [Food Waste](https://github.com/yanboishere/Chain.Food/blob/master/README.md#world-food-wasted-data) ,Blockchain deal it First.
+# 🍚 Reduce [Food Waste](https://github.com/yanboishere/Chain.Food/blob/master/README.md#world-food-wasted-data), Blockchain deal it First.
 ## dApp that fights food waste by connecting users with free food nearby.
 
 [![mit](https://img.shields.io/github/license/yanboishere/Chain.Food?style=flat-square)](https://github.com/yanboishere/Chain.Food/) [![GitHub stars](https://img.shields.io/github/stars/yanboishere/Chain.Food.svg?style=social&label=Stars)](https://github.com/Web3-Club/Web3-Interactive-Learning) [![GitHub watchers](https://img.shields.io/github/watchers/yanboishere/Chain.Food.svg?style=social&label=Watch)](https://github.com/Web3-Club/Blockchain-Developer-roadmap_Chinese)
@@ -17,14 +20,21 @@
 
 ---
 
-# ETH Shanghai 2023 Activities Demo
+<p align="center">
+  <h2>ETH Shanghai 2023 Activities Demo</h2>
+</p>
 
 <p align="center">
   <img width="247" alt="eth shanghai" src="https://github.com/yanboishere/Block.Food/assets/76860915/5d83038a-a4e9-403d-9fa7-0aab8f9fe13d">
 </p>
 
-## Tracks involved in this project
-### <p align="center">[Tracks](https://github.com/yanboishere/Chain.Food/blob/master/Tracks.md)</p>
+<p align="center">
+  <h3>Tracks involved in this project</h3>
+</p>
+
+<p align="center">
+  <a href="https://github.com/yanboishere/Chain.Food/blob/master/Tracks.md">Tracks</a>
+</p>
 
 
 
