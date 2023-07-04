@@ -46,6 +46,7 @@ Later that day, while visiting a convenience store, the author noticed a large q
 
 ![IMG_3085](https://github.com/yanboishere/Chain.Food/assets/76860915/0e17c760-29a0-4f0c-b8b6-2efc5a4323d1)
 
+Affected by the company's policy, although these foods have been sold at a discount,(The food in the picture is less than $1) there are still a lot of surplus.
 ---
 
 These experiences highlight the issue of food waste in urban areas, and the author was inspired to create a decentralized application (Dapp) called Chain Food to address this problem.
