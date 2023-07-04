@@ -7,7 +7,7 @@
   🔗🍜
 </h2>
 
-# 🍚 Reduce [Food Waste](https://github.com/yanboishere/Chain.Food/blob/master/README.md#world-food-wasted-data), Blockchain deal it First.
+# 🍚 Reduce Food Waste, Blockchain deal it First.
 ## dApp that fights food waste by connecting users with free food nearby.
 
 [![mit](https://img.shields.io/github/license/yanboishere/Chain.Food?style=flat-square)](https://github.com/yanboishere/Chain.Food/) [![GitHub stars](https://img.shields.io/github/stars/yanboishere/Chain.Food.svg?style=social&label=Stars)](https://github.com/Web3-Club/Web3-Interactive-Learning) [![GitHub watchers](https://img.shields.io/github/watchers/yanboishere/Chain.Food.svg?style=social&label=Watch)](https://github.com/Web3-Club/Blockchain-Developer-roadmap_Chinese)
