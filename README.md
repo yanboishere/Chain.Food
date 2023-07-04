@@ -28,8 +28,8 @@
 
 ---
 
+![325ab3363bc332a5dd989af0a9bc64ea](https://github.com/yanboishere/Chain.Food/assets/76860915/22f0f4c0-dd13-4474-b379-2247536ec6fa)
 
-![IMG_3088](https://github.com/yanboishere/Chain.Food/assets/76860915/4132410c-1faa-4211-b187-3e15528d9201)
 
 
 
