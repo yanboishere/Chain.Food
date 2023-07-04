@@ -1,18 +1,16 @@
-# Chain Food      
+# Chain Food
 ## 🔗🍜
-
-
 
 # 🍚 Reduce [Food Waste](https://github.com/yanboishere/Chain.Food/blob/master/README.md#world-food-wasted-data) ,Blockchain deal it First.
 ## dApp that fights food waste by connecting users with free food nearby.
 
-
 [![mit](https://img.shields.io/github/license/yanboishere/Chain.Food?style=flat-square)](https://github.com/yanboishere/Chain.Food/) [![GitHub stars](https://img.shields.io/github/stars/yanboishere/Chain.Food.svg?style=social&label=Stars)](https://github.com/Web3-Club/Web3-Interactive-Learning) [![GitHub watchers](https://img.shields.io/github/watchers/yanboishere/Chain.Food.svg?style=social&label=Watch)](https://github.com/Web3-Club/Blockchain-Developer-roadmap_Chinese)
 
+<p align="center">
+  <img src="https://github.com/yanboishere/Block.Food/assets/76860915/edead79d-5f81-4e0c-a2b0-a3d6cf7d64b5">
+</p>
 
-![Chain Food](https://github.com/yanboishere/Block.Food/assets/76860915/edead79d-5f81-4e0c-a2b0-a3d6cf7d64b5)
-
- <br>
+<br>
 
 ## Language
 [English](https://github.com/yanboishere/Chain.Food/blob/master/README.md) | [简体中文](https://github.com/yanboishere/Chain.Food/blob/master/README_cn.md)
@@ -20,10 +18,14 @@
 ---
 
 # ETH Shanghai 2023 Activities Demo
-<img width="247" alt="eth shanghai" src="https://github.com/yanboishere/Block.Food/assets/76860915/5d83038a-a4e9-403d-9fa7-0aab8f9fe13d">
+
+<p align="center">
+  <img width="247" alt="eth shanghai" src="https://github.com/yanboishere/Block.Food/assets/76860915/5d83038a-a4e9-403d-9fa7-0aab8f9fe13d">
+</p>
 
 ## Tracks involved in this project
-### [Tracks](https://github.com/yanboishere/Chain.Food/blob/master/Tracks.md)
+### <p align="center">[Tracks](https://github.com/yanboishere/Chain.Food/blob/master/Tracks.md)</p>
+
 
 
 ---
