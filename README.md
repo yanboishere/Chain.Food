@@ -140,6 +140,7 @@ So,This is the main problem that our project aims to solve:
 
 - Chain.Food is open to all restaurants, event organizers, and individuals who wish to register.
 - Users who link their wallet to the platform can view information about free food nearby, as well as publish information and location about free food they are offering.
+- During the exchange process, both parties need to enter their erc address (or scan its QR code)to prove their identities on the chain
 - Upon receipt or donation of food, users will receive FoodCoin tokens as an incentive from the platform.
 - Users who post photos of their empty plates after consuming the received food can also earn FoodCoin rewards.
 - Tokens can be redeemed for rewards at partner merchants or traded on exchanges.
