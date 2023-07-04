@@ -12,7 +12,7 @@
 </h1>
 
 <h2 align="center">
-  dApp that fights food waste by connecting users with free food nearby.
+  Public welfare dApp that fights food waste by connecting users with free food nearby.
 </h2>
 
 <p align="center">
@@ -224,6 +224,7 @@ Thanks to LXDAO ETHshanghai 2023 friends in the exchange group have opinions and
 
 Thanks to a waiter at the Fortune Shopping Plaza in Jilin City, Jilin Province for assisting me to record and shoot wasted food material.
 
+Thanks to everyone who is care of the food wasted  and to make the dishes cleaned.
 
 
 # Support us
