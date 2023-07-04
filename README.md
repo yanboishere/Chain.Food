@@ -1,6 +1,6 @@
-<p align="center">
+<div style="text-align: center;">
   Chain Food
-</p>
+</div>
 
 ## 🔗🍜
 
