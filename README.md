@@ -34,10 +34,10 @@
 
 <br>
 
-<div style="text-align: center;">
-  Language [English](https://github.com/yanboishere/Chain.Food/blob/master/README.md) | [简体中文](https://github.com/yanboishere/Chain.Food/blob/master/README_cn.md) 
+
   
-</div>
+  
+
 
 
 ---
@@ -68,6 +68,9 @@
 
 
 # Introduction
+
+  Language [English](https://github.com/yanboishere/Chain.Food/blob/master/README.md) | [简体中文](https://github.com/yanboishere/Chain.Food/blob/master/README_cn.md) 
+
 
 The inspiration for this project came from a chance experience the author had. 
 
