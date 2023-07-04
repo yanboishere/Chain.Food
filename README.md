@@ -15,8 +15,18 @@
   dApp that fights food waste by connecting users with free food nearby.
 </h2>
 
+<p align="center">
+  <a href="https://github.com/yanboishere/Chain.Food/blob/master/LICENSE">
+    <img src="https://img.shields.io/github/license/yanboishere/Chain.Food?style=flat-square" alt="mit">
+  </a>
+  <a href="https://github.com/Web3-Club/Web3-Interactive-Learning">
+    <img src="https://img.shields.io/github/stars/yanboishere/Chain.Food.svg?style=social&label=Stars" alt="GitHub stars">
+  </a>
+  <a href="https://github.com/Web3-Club/Blockchain-Developer-roadmap_Chinese">
+    <img src="https://img.shields.io/github/watchers/yanboishere/Chain.Food.svg?style=social&label=Watch" alt="GitHub watchers">
+  </a>
+</p>
 
-[![mit](https://img.shields.io/github/license/yanboishere/Chain.Food?style=flat-square)](https://github.com/yanboishere/Chain.Food/) [![GitHub stars](https://img.shields.io/github/stars/yanboishere/Chain.Food.svg?style=social&label=Stars)](https://github.com/Web3-Club/Web3-Interactive-Learning) [![GitHub watchers](https://img.shields.io/github/watchers/yanboishere/Chain.Food.svg?style=social&label=Watch)](https://github.com/Web3-Club/Blockchain-Developer-roadmap_Chinese)
 
 <p align="center">
   <img src="https://github.com/yanboishere/Block.Food/assets/76860915/edead79d-5f81-4e0c-a2b0-a3d6cf7d64b5">
