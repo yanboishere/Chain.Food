@@ -143,6 +143,7 @@ So,This is the main problem that our project aims to solve:
 - Upon receipt or donation of food, users will receive FoodCoin tokens as an incentive from the platform.
 - Users who post photos of their empty plates after consuming the received food can also earn FoodCoin rewards.
 - Tokens can be redeemed for rewards at partner merchants or traded on exchanges.
+- **Layer2 tokens can use the user's SBT proof to confirm that their personal information and address are valid and appreciate their public welfare actions.**
 
 ### NFTs
 
