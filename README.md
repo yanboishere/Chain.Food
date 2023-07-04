@@ -44,11 +44,7 @@ During a hackathon competition, many participants were unable to arrive at the v
 
 Later that day, while visiting a convenience store, the author noticed a large quantity of discounted food that was set to be thrown away the next morning, as per company policy. 
 
-<img width="689" alt="截屏2023-06-27 下午10 07 14" src="https://github.com/yanboishere/Chain.Food/assets/76860915/aa5c7bc5-f187-4093-8735-99be0f8d3756">
-
- <br>
-
-（Picture copyright from ©️便利蜂）
+![IMG_3085](https://github.com/yanboishere/Chain.Food/assets/76860915/0e17c760-29a0-4f0c-b8b6-2efc5a4323d1)
 
 ---
 
