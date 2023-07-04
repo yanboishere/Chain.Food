@@ -190,6 +190,7 @@ Finally, all users are requested to carefully read and understand this disclaime
 
 Thanks to a waiter at the Fortune Shopping Plaza in Jilin City, Jilin Province for assisting me to record and shoot wasted food material.
 
+Thanks to LXDAO ETHshanghai 2023 friends in the exchange group have opinions and suggestions on my project.
 
 # Support us
 
