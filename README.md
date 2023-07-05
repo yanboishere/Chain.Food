@@ -147,7 +147,7 @@ So,This is the main problem that our project aims to solve:
 - **Layer2 tokens can use the user's SBT proof to confirm that their personal information and address are valid and appreciate their public welfare actions.**
 - Cooperate with related foundations and NEO members for funding and offline promotion Conduct online and offline promotion with members who are willing to join public welfare
 - Cooperate with Web3 organizations such as Layer2 tokens and NFT issuers DAO, and use them as partners to carry out public welfare
-- Relying on the openness and transparency of data on the chain, user and our charitable funds and processes will be 100% open and transparent to the society.
+- Relying on the openness and transparency of data on the chain, user and our charitable funds and processes will be **100% open and transparent to the society.**
 
 ### NFTs
 
