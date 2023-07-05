@@ -140,11 +140,14 @@ So,This is the main problem that our project aims to solve:
 
 - Chain.Food is open to all restaurants, event organizers, and individuals who wish to register.
 - Users who link their wallet to the platform can view information about free food nearby, as well as publish information and location about free food they are offering.
-- During the exchange process, both parties need to enter their erc address (or scan its QR code)to prove their identities on the chain
+- During the exchange process, both parties need to enter their erc address (or scan its QR code)to **prove their identities on the chain.**
 - Upon receipt or donation of food, users will receive FoodCoin tokens as an incentive from the platform.
 - Users who post photos of their empty plates after consuming the received food can also earn FoodCoin rewards.
 - Tokens can be redeemed for rewards at partner merchants or traded on exchanges.
 - **Layer2 tokens can use the user's SBT proof to confirm that their personal information and address are valid and appreciate their public welfare actions.**
+- Cooperate with related foundations and NEO members for funding and offline promotion Conduct online and offline promotion with members who are willing to join public welfare
+- Cooperate with Web3 organizations such as Layer2 tokens and NFT issuers DAO, and use them as partners to carry out public welfare
+- Relying on the openness and transparency of data on the chain, user and our charitable funds and processes will be 100% open and transparent to the society.
 
 ### NFTs
 
