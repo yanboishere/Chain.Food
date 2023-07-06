@@ -244,7 +244,7 @@ Thanks to THUBA people —— BaiYu,CC,Leo Fang —— help me with my question 
 
 Thanks to LXDAO ETHshanghai 2023 friends in the exchange group have opinions and suggestions on my project.
 
-Thanks to my brother——Xu Huyang, for his encouragement and support to me all the time
+Thanks to my Friend——Xu Huyang, for his encouragement and support to me all the time
 
 Thanks to a waiter for assisting me to record and shoot wasted food material.
 
