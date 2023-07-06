@@ -248,8 +248,10 @@ Thanks to a waiter at the Fortune Shopping Plaza in Jilin City, Jilin Province f
 
 Thanks to LXDAO exchange group friends breakfask and lunch given.
 
-
 Thanks to **everyone who is care of the food wasted  and to make the food dishes cleaned.**
+
+There are still many friends to be thanked. Due to space reasons, I will not list them one by one. Here is a unified thank you！
+
 
 
 # Support us
