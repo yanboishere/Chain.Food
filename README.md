@@ -230,7 +230,9 @@ Thanks to my Family —— expecially my mother.
 
 For the support of my project and everything that has been caring about me for 18 years.
 
-She will celebrate her birthday in a few weeks after the completion of the project demo. Here I wish her a happy birthday in advance!
+She will celebrate her birthday in a few weeks after the completion of the project demo.
+
+Here with this project,I wish her a happy birthday in advance!
 
 <br>
 <br>
