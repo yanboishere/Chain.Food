@@ -249,7 +249,7 @@ Thanks to a waiter for assisting me to record and shoot wasted food material.
 Thanks to LXDAO exchange group friends breakfask and lunch given.
 
 
-Thanks to everyone who is care of the food wasted  and to make the dishes cleaned.
+Thanks to everyone who is care of the food wasted  and to make the food dishes cleaned.
 
 
 # Support us
