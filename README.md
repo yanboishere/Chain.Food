@@ -244,7 +244,7 @@ Thanks to THUBA people —— BaiYu,CC,Leo Fang —— help me with my question 
 
 Thanks to LXDAO ETHshanghai 2023 friends in the exchange group have opinions and suggestions on my project.
 
-Thanks to my Friend——Xu Huyang from Electronic Information Engineering, Jilin Institute of Chemical Technology, for his encouragement and support to me all the time
+Thanks to my Friend——Xu Huyang from Jilin Institute of Chemical Technology, for his encouragement and support to me all the time
 
 Thanks to a waiter at the Fortune Shopping Plaza in Jilin City, Jilin Province for assisting me to record and shoot wasted food material.
 
