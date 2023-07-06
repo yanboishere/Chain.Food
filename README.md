@@ -226,11 +226,21 @@ Finally, all users are requested to carefully read and understand this disclaime
 ## Decentralized Protocol
 
 # Thanks to 
-Thanks to my Family —— expecially my mother,always care about my project,and always care about my healthy.
+Thanks to my Family —— expecially my mother.
+
+For the support of my project and everything that has been caring about me for 18 years.
+
+She will celebrate her birthday in a few weeks after the completion of the project demo. Here I wish her a happy birthday in advance!
+
+<br>
+<br>
+<br>
 
 Thanks to THUBA people —— BD CC,Leo Fang —— help me with my question about this Hackathon event.
 
 Thanks to LXDAO ETHshanghai 2023 friends in the exchange group have opinions and suggestions on my project.
+
+Thanks to my brother——Xu Huyang from Class 2203 of Electronic Information Engineering, Jilin Institute of Chemical Technology, for his encouragement and support to me all the time
 
 Thanks to a waiter at the Fortune Shopping Plaza in Jilin City, Jilin Province for assisting me to record and shoot wasted food material.
 
