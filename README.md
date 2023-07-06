@@ -132,6 +132,8 @@ By the Food and Agriculture Organization of the United Nations (FAO)
 
 These food waste could have been avoided and keep less people hunger...but **why not for reuse before it waste?**
 
+## In particular, our entire Ethereum ecosystem has hardly had dapps in the past, and the main goal is to truly do public welfare.
+
 So,This is the main problem that our project aims to solve:
 
 ## Features
