@@ -220,19 +220,22 @@ Finally, all users are requested to carefully read and understand this disclaime
 ## SQL Database
 <img width="230" alt="截屏2023-06-28 下午9 28 25" src="https://github.com/yanboishere/Chain.Food/assets/76860915/5d1788e6-03eb-4652-894a-51d694316009">
 
-
-## Zero-Trust Key-Value storage space
-<img width="85" alt="截屏2023-06-28 下午9 16 23" src="https://github.com/yanboishere/Chain.Food/assets/76860915/00357171-7b3c-4d18-bbeb-a97f5f252d8b">
-
 ## Batch Precompile
 <img width="230" alt="截屏2023-06-28 下午9 19 56" src="https://github.com/yanboishere/Chain.Food/assets/76860915/2db4cdf8-cb88-48a8-a251-c7957dc54d58">
 
 ## Decentralized Protocol
 
 # Thanks to 
+Thanks to my Family —— expecially my mother,always care about my project,and always care about my healthy.
+
+Thanks to THUBA people —— BD CC,Leo Fang —— help me with my question about this Hackathon event.
+
 Thanks to LXDAO ETHshanghai 2023 friends in the exchange group have opinions and suggestions on my project.
 
 Thanks to a waiter at the Fortune Shopping Plaza in Jilin City, Jilin Province for assisting me to record and shoot wasted food material.
+
+Thanks to LXDAO exchange group friends breakfask and lunch given.
+
 
 Thanks to everyone who is care of the food wasted  and to make the dishes cleaned.
 
