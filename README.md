@@ -209,21 +209,7 @@ The platform reserves the right to modify, suspend or terminate the service at a
 
 Finally, all users are requested to carefully read and understand this disclaimer before using this platform, and at the same time abide by the rules of the platform, and work together to create a sustainable food exchange community.
 
-# Tools
-## IDE
-<img width="337" alt="截屏2023-06-28 下午8 54 15" src="https://github.com/yanboishere/Chain.Food/assets/76860915/baf735f3-fa3d-42bc-a2bf-1dedee2875a5">
 
-## Chain Data
-<img width="246" alt="截屏2023-06-28 下午9 08 01" src="https://github.com/yanboishere/Chain.Food/assets/76860915/e3713231-bf98-4ea3-934f-f65ccd020811">
- 
-## Zero-trust identity relationship creation/query protocol 
-<img width="85" alt="截屏2023-06-28 下午9 16 23" src="https://github.com/yanboishere/Chain.Food/assets/76860915/00357171-7b3c-4d18-bbeb-a97f5f252d8b">
-
-## SQL Database
-<img width="230" alt="截屏2023-06-28 下午9 28 25" src="https://github.com/yanboishere/Chain.Food/assets/76860915/5d1788e6-03eb-4652-894a-51d694316009">
-
-## Batch Precompile
-<img width="230" alt="截屏2023-06-28 下午9 19 56" src="https://github.com/yanboishere/Chain.Food/assets/76860915/2db4cdf8-cb88-48a8-a251-c7957dc54d58">
 
 ## Decentralized Protocol
 
