@@ -226,7 +226,7 @@ Here with this project,I wish her a happy birthday in advance!
 <br>
 <br>
 
-Thanks to THUBA people —— BaiYu,CC,Leo Fang —— help me with my question about this Hackathon event.
+Thanks to THUBA people —— BoYu,CC,Leo Fang —— help me with my question about this Hackathon event.
 
 Thanks to LXDAO ETHshanghai 2023 friends in the exchange group have opinions and suggestions on my project.
 
