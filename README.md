@@ -42,11 +42,6 @@
 
 ---
 
-<h2 align="center">ETH Shanghai 2023 Activities Demo ｜ 🥉 </h2>
-
-<p align="center">
-  <img width="247" alt="eth shanghai" src="https://github.com/yanboishere/Block.Food/assets/76860915/5d83038a-a4e9-403d-9fa7-0aab8f9fe13d">
-</p>
 
 <h3 align="center">Tracks involved in this project</h3>
 
@@ -228,7 +223,7 @@ Here with this project,I wish her a happy birthday in advance!
 
 Thanks to THUBA people —— BoYu,CC,Leo Fang —— help me with my question about this Hackathon event.
 
-Thanks to LXDAO ETHshanghai 2023 friends in the exchange group have opinions and suggestions on my project.
+Thanks to LXDAO friends in the exchange group have opinions and suggestions on my project.
 
 Thanks to my Friend——Xu Huyang from Jilin Institute of Chemical Technology, for his encouragement and support to me all the time
 
